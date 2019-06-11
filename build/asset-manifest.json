@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/~defrancl/labs/world/static/css/main.e5f4605e.chunk.css",
+    "main.js": "/~defrancl/labs/world/static/js/main.15b73014.chunk.js",
+    "main.js.map": "/~defrancl/labs/world/static/js/main.15b73014.chunk.js.map",
+    "runtime~main.js": "/~defrancl/labs/world/static/js/runtime~main.6b8d8a0f.js",
+    "runtime~main.js.map": "/~defrancl/labs/world/static/js/runtime~main.6b8d8a0f.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/~defrancl/labs/world/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/~defrancl/labs/world/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/~defrancl/labs/world/index.html",
+    "precache-manifest.ef6b2662d2992e68c75aaf7649c09d40.js": "/~defrancl/labs/world/precache-manifest.ef6b2662d2992e68c75aaf7649c09d40.js",
+    "service-worker.js": "/~defrancl/labs/world/service-worker.js",
+    "static/css/main.e5f4605e.chunk.css.map": "/~defrancl/labs/world/static/css/main.e5f4605e.chunk.css.map"
+  }
+}

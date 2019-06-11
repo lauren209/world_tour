@@ -1,0 +1,23 @@
+
+img{
+    height: 100px;
+    width: 150px;
+}
+
+.countryDetails {
+    display: inline-block;
+    padding: 0.5em;
+    margin: 4px;
+    background-color: blanchedalmond;
+    border: 1px black solid;
+    border-radius: 25px;
+    
+}
+
+.countryDetails span{
+    color: black;
+    float: left;
+    clear: left;
+    padding: 10px;
+    
+}
